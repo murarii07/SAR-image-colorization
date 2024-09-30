@@ -2,11 +2,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
+    <div className="footer">
 
-      <footer class="w-full shadow bg-gray-900 footer">
-        <div class=" w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
-          <span class="text-sm  sm:text-center text-gray-400">
+      <footer className="w-full shadow bg-gray-900">
+        <div className=" w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+          <span className="text-sm  sm:text-center text-gray-400">
             © 2024{" "}
             <a href="" class="hover:underline">
               Pseudo Squad™

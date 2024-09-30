@@ -148,7 +148,7 @@ function App() {
                 <ImageComparisonArray
                   image={image}
                   ColorizedImage={ColorizedImage}
-                  handle={handle}
+                  
                 />
               </Suspense>
             </>

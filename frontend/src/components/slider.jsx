@@ -85,29 +85,6 @@ const ImageComparison = (props) => {
             </button>
           </div>
         </div>
-        {/* <div className="w-full  flex justify-center">
-          <button
-            className="upload-btn w-1/12 flex justify-center text-white font-medium rounded-lg   border-box  absolute top-5 left-5"
-            onClick={props.handle}
-          >
-     
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 32 32"
-  id="upload"
-  width="100%"
-  height="100%"
-  style={{ maxWidth: "30px", maxHeight: "30px", fill: "white" }}
->
-  <g>
-    <path d="M25,19a1,1,0,0,0-1,1v5H8V20a1,1,0,0,0-2,0v5.14A1.93,1.93,0,0,0,8,27H24a1.93,1.93,0,0,0,2-1.86V20A1,1,0,0,0,25,19Z"></path>
-    <path d="M16,12.45V22a1,1,0,0,0,2,0V12.45l3.27,3.52a1,1,0,0,0,1.46-1.37l-5-5.38a1,1,0,0,0-1.46,0l-5,5.38a1,1,0,0,0,1.46,1.37Z"></path>
-  </g>
-</svg>
-
-
-          </button>
-        </div> */}
       </div>
     </div>
 
